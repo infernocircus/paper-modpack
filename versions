@@ -1,3 +1,4 @@
+BungeeCordAuthenticator: 0.0.3
 Dynmap: 3.1-beta7
 fastlogin.bukkit: 1.11-20210407.085053-22
 LuckPerms: 5.1.81
@@ -10,7 +11,6 @@ MaSuitePortals: 2.0.1
 MaSuiteTeleports: 2.0.0
 MaSuiteWarps: 2.0.2
 
-SodionAuth: 2.0-117
 Vault: 1.7.3
 Vivecraft_Spigot_Extensions: 1.16.5r1
 WorldEdit: 7.2.4
